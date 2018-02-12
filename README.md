@@ -1,4 +1,4 @@
-# Boston-Housing-Data
+# Boston Housing Data
 ## Domain
 This dataset describes hosuing value in the suburbs of Boston and was taken from the StatLib library at Carnegie Mellon University.
 
