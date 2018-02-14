@@ -2,7 +2,7 @@
 ## Domain
 This dataset describes hosuing value in the suburbs of Boston and was taken from the StatLib library at Carnegie Mellon University.
 
-Past usage of the dataset incclude regression diagnostis used in Belsley, Kuh & Welsch, 'Regression diagnostics ...', Wiley, 1980 with various transformations of the data as well as in 1993 by R. Quinlan in 'Combining Instance-Based and Model-Based Learning'.
+Past usage of the dataset incclude regression diagnostis used in Belsley, Kuh & Welsch, 'Regression diagnostics ...', in 1980 with various transformations of the data as well as in 1993 by R. Quinlan in 'Combining Instance-Based and Model-Based Learning'.
 
 
 ## Problem Statement
